@@ -38,7 +38,7 @@ LEMP Stack Implementation
    ![output of database querry](https://user-images.githubusercontent.com/101065505/197052658-f845f698-1bfb-48df-b4b4-d5f1bf7fa871.png)
    
 1. PHP site talking to database 
-   ![php site talking to database](https://user-images.githubusercontent.com/101065505/197052947-de6ee238-16eb-432b-aa35-2e77d7b6a7a8.png)
+   ![php talking with database](https://user-images.githubusercontent.com/101065505/197053287-87836f78-e3a3-434f-a825-8433df3cadfa.png)
  
  
  
